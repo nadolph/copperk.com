@@ -1,0 +1,7 @@
+old_site/
+.DS_Store
+node_modules/
+dist/
+.env
+.idea/
+.vscode/
