@@ -284,10 +284,7 @@ footer {
     /* Smaller logo text on mobile if text is still used, though we are replacing with img */
   }
 
-  .logo-img {
-    max-height: 40px;
-    /* Smaller logo on mobile */
-  }
+
 
   .nav-links {
     display: flex;
@@ -337,7 +334,7 @@ footer {
 
 /* Logo Image Styling */
 .logo-img {
-  max-height: 35px;
+  max-height: 30px;
   width: auto;
   display: block;
 }
