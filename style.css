@@ -332,9 +332,17 @@ footer {
   }
 }
 
+/* Logo Styling */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  /* Space between image and text */
+}
+
 /* Logo Image Styling */
 .logo-img {
-  max-height: 30px;
+  max-height: 80px;
   width: auto;
   display: block;
 }
