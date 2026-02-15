@@ -199,6 +199,20 @@ section {
   /* Optional: adds depth */
 }
 
+.hero-actions {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.hero-actions .btn {
+  min-width: 180px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* Features Grid */
 .features {
   display: grid;
