@@ -125,6 +125,18 @@ section {
   color: var(--color-gold);
 }
 
+.banner {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--color-gold);
+  color: var(--color-white);
+  border: 3px solid var(--color-black);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.9rem;
+}
+
 /* Buttons */
 .btn {
   display: inline-block;
